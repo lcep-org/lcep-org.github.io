@@ -22,3 +22,13 @@ To see for yourself how our March 2019 event went, click through the slideshow b
 
 <!-- IMAGES HERE -->
 
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/StellarSTEMWeekend_2019.jpg" class="img-fluid rounded z-depth-1" caption="Students engage in citizen science research via zooniverse.org, March 2019" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/magicofphysics.jpeg" class="img-fluid rounded z-depth-1" caption="Prof. Art Schmidt makes liquid nitrogen ice cream with the girls during his Magic of Physics Show, March 2019" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/citizenscience.JPG" class="img-fluid rounded z-depth-1" caption="The students (and chaperones!) get a tutorial in using citizen science to identify gravitational wave signals from Prof. Christopher Berry" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/charee.JPG" class="img-fluid rounded z-depth-1" caption="Dr. Charee Peters engages with the girls as an indigenous astrophysicist and data scientist herself, March 2019" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/vienna-dearborn.jpg" class="img-fluid rounded z-depth-1" caption="One of the chaperones looks through the Dearborn Observatory telescope during our sleepover in the dome, March 2019" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/ava-and-guests.jpg" class="img-fluid rounded z-depth-1" caption="Following the exchange of star stories and science, celebrating the spirit of the entire weekend (here: all of our Lakota guests with LCEP founder Ava Polzin), March 2019" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Julie-art.jpg" class="img-fluid rounded z-depth-1" caption="NU'19 Julie Malewicz drew this as a special design for our Lakota guests -- it was included on the sweatshirts they received as a gift from the Society of Physics Students, March 2019" %}</swiper-slide>
+</swiper-container>
+
