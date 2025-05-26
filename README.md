@@ -1,6 +1,6 @@
 # The Lakota Cultural Exchange Program
 
-Under construction! Revamping/updating the website for better longevity.
+Revamping/updating the website for better longevity (including independence from WordPress and similar).
 
 This site is primarily maintained for archival purposes. For updates on our current work, visit [siriusb.org](https://siriusb.org/).
 
