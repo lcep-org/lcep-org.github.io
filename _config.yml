@@ -125,9 +125,9 @@ blog_nav_title: Blog # your blog must have a title for it to be displayed in the
 blog_description: Empowerment through enrichment.
 permalink: /blog/:year/:title/
 
-# Pagination
-pagination:
-  enabled: true
+# # Pagination
+# pagination:
+#   enabled: true
 
 # related_blog_posts:
 #   enabled: true
