@@ -2,8 +2,8 @@
 layout: about
 title: Home
 permalink: /
-nav: true
-nav_order: 1
+# nav: true
+# nav_order: 1
 subtitle: "Our Mission: Empowerment through enrichment."
 ---
 
