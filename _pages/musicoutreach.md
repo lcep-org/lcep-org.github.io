@@ -12,4 +12,19 @@ In 2014, we began our partnership with [Girls Rock! Chicago](https://girlsrockch
 
 With Lakota proximity to a Girls Rock! camp ensured, we instead turned our focus toward lasting measures that would allow yet-broader access to music enrichment. Utilizing a generous donation from an anonymous philanthropist and working directly with the recipient schools to realize their wish lists, 2017 saw the donation of a full suite of instruments (to the end of establishing permanent music programs) for K-12 students at Little Wound School and K-8 at Red Shirt School in South Dakota.
 
-<!-- IMAGES HERE -->
+A visual timeline (2014 - 2017) of the LCEP's music efforts is below. Click on the pictures to expand and mouse over to see the caption.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Tyrees.jpg" class="img-fluid rounded z-depth-1" title="2014: The LCEP's guest, Tyrees, holds up a Girls Rock! Chicago shoutout." zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Payton.jpg" class="img-fluid rounded z-depth-1" title="2015: The LCEP's guest, Payton, plays the guitar with her Girls Rock! Chicago band, Black Slip Saturday." zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/GirlsRockPineRidge.jpg" class="img-fluid rounded z-depth-1" title="2016: A band plays at the inaugural Girls Rock! Pine Ridge camp showcase." zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/LittleWound_instruments.jpg" class="img-fluid rounded z-depth-1" title="2017: A Little Wound student excitedly helps unpack the school's new instruments." zoomable=true %}
+    </div>
+</div>
