@@ -16,15 +16,15 @@ A visual timeline (2014 - 2017) of the LCEP's music efforts is below. Click on t
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Tyrees.jpg" class="img-fluid rounded z-depth-1" title="2014: The LCEP's guest, Tyrees, holds up a Girls Rock! Chicago shoutout." caption="2014: The LCEP's guest, Tyrees, holds up a Girls Rock! Chicago shoutout." zoomable=true %}
+        {% include figure.liquid class="scale" loading="eager" path="assets/img/Tyrees.jpg" class="img-fluid rounded z-depth-1" title="2014: The LCEP's guest, Tyrees, holds up a Girls Rock! Chicago shoutout." caption="2014: The LCEP's guest, Tyrees, holds up a Girls Rock! Chicago shoutout." zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Payton.jpg" class="img-fluid rounded z-depth-1" title="2015: The LCEP's guest, Payton, plays the guitar with her Girls Rock! Chicago band, Black Slip Saturday." caption="2015: The LCEP's guest, Payton, plays the guitar with her Girls Rock! Chicago band, Black Slip Saturday." zoomable=true %}
+        {% include figure.liquid class="scale" loading="eager" path="assets/img/Payton.jpg" class="img-fluid rounded z-depth-1" title="2015: The LCEP's guest, Payton, plays the guitar with her Girls Rock! Chicago band, Black Slip Saturday." caption="2015: The LCEP's guest, Payton, plays the guitar with her Girls Rock! Chicago band, Black Slip Saturday." zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/GirlsRockPineRidge.jpg" class="img-fluid rounded z-depth-1" title="2016: A band plays at the inaugural Girls Rock! Pine Ridge camp showcase." caption="2016: A band plays at the inaugural Girls Rock! Pine Ridge camp showcase." zoomable=true %}
+        {% include figure.liquid class="scale" loading="eager" path="assets/img/GirlsRockPineRidge.jpg" class="img-fluid rounded z-depth-1" title="2016: A band plays at the inaugural Girls Rock! Pine Ridge camp showcase." caption="2016: A band plays at the inaugural Girls Rock! Pine Ridge camp showcase." zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/LittleWound_instruments.jpg" class="img-fluid rounded z-depth-1" title="2017: A Little Wound student excitedly helps unpack the school's new instruments." caption="2017: A Little Wound student excitedly helps unpack the school's new instruments." zoomable=true %}
+        {% include figure.liquid class="scale" loading="eager" path="assets/img/LittleWound_instruments.jpg" class="img-fluid rounded z-depth-1" title="2017: A Little Wound student excitedly helps unpack the school's new instruments." caption="2017: A Little Wound student excitedly helps unpack the school's new instruments." zoomable=true %}
     </div>
 </div>
