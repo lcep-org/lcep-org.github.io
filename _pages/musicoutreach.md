@@ -14,7 +14,7 @@ With Lakota proximity to a Girls Rock! camp ensured, we instead turned our focus
 
 A visual timeline (2014 - 2017) of the LCEP's music efforts is below. Click on the pictures to expand and mouse over to see the caption.
 
-<!-- <div class="row mt-3">
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Tyrees.jpg" class="img-fluid rounded z-depth-1" title="2014: The LCEP's guest, Tyrees, holds up a Girls Rock! Chicago shoutout." caption="2014: The LCEP's guest, Tyrees, holds up a Girls Rock! Chicago shoutout." zoomable=true %}
     </div>
@@ -27,4 +27,4 @@ A visual timeline (2014 - 2017) of the LCEP's music efforts is below. Click on t
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/LittleWound_instruments.jpg" class="img-fluid rounded z-depth-1" title="2017: A Little Wound student excitedly helps unpack the school's new instruments." caption="2017: A Little Wound student excitedly helps unpack the school's new instruments." zoomable=true %}
     </div>
-</div> -->
+</div>
