@@ -2,9 +2,9 @@
 layout: post
 title: "Rebel Music: Native America"
 date: 2015-01-29 00:00:00
-description: 
-tags: 
-categories: 
+description: Shepard Fairey’s project with MTV
+tags: Blog, Guests, Learning, Video
+categories: Blog, Guests, Learning, Video
 ---
 
 ##### Rebel Music: Native America – Shepard Fairey’s project with MTV
