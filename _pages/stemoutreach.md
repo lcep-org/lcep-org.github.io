@@ -46,7 +46,7 @@ To see for yourself how our March 2019 event went, click through the pictures be
     </div>
 </div>
 
-<div>
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Julie_art.jpg" class="img-fluid rounded z-depth-1" caption="NU'19 Julie Malewicz drew this as a special design for our Lakota guests -- it was included on the sweatshirts they received as a gift from the Society of Physics Students, March 2019" zoomable=true %}
     </div>
