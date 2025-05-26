@@ -10,18 +10,21 @@
             {%- if site.title == "blank" -%}
               {%- if site.first_name -%} -->
                 <!-- {{- site.first_name -}}&nbsp; -->
+          <!---
                 <span class="font-weight-bold" style = "font-size: 30px">{{- site.first_name -}}</span>
               {%- endif -%}
               {%- if site.middle_name -%}
                 {{- site.middle_name -}}&nbsp;
               {%- endif -%}
-              {%- if site.last_name -%} 
+              {%- if site.last_name -%} -->
                 <!-- {{- site.last_name -}} -->
+          <!--- 
                 <span class="font-weight-bold" style = "font-size: 30px">{{- site.last_name -}}</span>
               {%- endif -%}
             {%- else -%}
               {{- site.title -}}
-            {%- endif -%} 
+            {%- endif -%} -->
+            <img src="{{ '/assets/img/LCEP_logo_bold.png' | relative_url }}" width="50%">
           </a>
           {%- elsif site.enable_navbar_social -%}
           <!-- Social Icons -->
