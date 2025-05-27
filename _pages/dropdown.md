@@ -6,6 +6,8 @@ nav_order: 6
 permalink: /outreach/
 dropdown: true
 children: 
+    - title: Outreach
+      permalink: /outreach/
     - title: Music Outreach
       permalink: /music-outreach/
     - title: STEM Outreach
